@@ -37,6 +37,7 @@
 - [Harvard NLP](https://nlp.seas.harvard.edu/)
 
 ## Lists
+- [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS)
 - [LLMs](https://lmsys.org/)
 - [Allen NLP](https://github.com/allenai/allennlp)
 - [Awesome Artificial Intelligence (AI)](https://project-awesome.org/owainlewis/awesome-artificial-intelligence)
