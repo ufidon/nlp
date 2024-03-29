@@ -26,7 +26,7 @@
   - [COS 484: Natural Language Processing](https://www.cs.princeton.edu/courses/archive/fall19/cos484/)
     - [github](https://princeton-nlp.github.io/cos484/)
 - *harvard*
-  - [CS50's Introduction to Artificial Intelligence with Python](https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python/2023-05)
+  - [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai)
 
 
 ## Research groups
