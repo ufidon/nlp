@@ -7,6 +7,8 @@
 # References
 ## Textbooks
 - [SALP: Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [Natural Language Processing with Python](https://www.nltk.org/book/)
+  - [NLTK - Natural Language Toolkit](https://www.nltk.org/)
 - [Applied Natural Language Processing in the Enterprise: Teaching Machines to Read, Write, and Understand ](https://github.com/nlpbook/nlpbook)
 - [Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp-code)
 - [Natural Language Processing with Transformers](https://github.com/nlp-with-transformers/notebooks)
