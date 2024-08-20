@@ -1,5 +1,7 @@
 # Natural Language Processing
 
+- [Get ready](./pre.md)
+
 ## Lectures
 1. Basic text processing
 2. N-gram Language Models
