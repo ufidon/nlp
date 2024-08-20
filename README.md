@@ -4,7 +4,7 @@
 - [Introduction to Natural Language Processing (NLP)](./intro.md)
 
 ## Lectures
-1. Basic text processing
+1. [Basic text processing](./01.btp.ipynb)
 2. N-gram Language Models
 3. Naive Bayes, Text Classification, and Sentiment
 4. Logistic Regression
