@@ -1,6 +1,7 @@
 # Natural Language Processing
 
 - [Get ready](./pre.md)
+- [Introduction to Natural Language Processing (NLP)](./intro.md)
 
 ## Lectures
 1. Basic text processing
