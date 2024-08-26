@@ -15,13 +15,13 @@ What is NLP?
 - In theory, AGI could complete tasks it wasn't trained for and perform creative actions that humans can't.
 
 
-[Brief History of NLP]
+Brief History of NLP
 ---
 - Early Beginnings (1950s-1980s):
   - Mention the Turing Test (1950).
   - Early attempts like machine translation (e.g., Georgetown-IBM experiment in 1954).
 - Rule-Based Systems (1960s-1980s):
-  - Hand-coded rules and symbolic approaches (e.g., ELIZA, SHRDLU).
+  - Hand-coded rules and symbolic approaches ( e.g., [ELIZA](https://en.wikipedia.org/wiki/ELIZA), [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU) ).
 - Statistical Methods (1990s):
   - Introduction of statistical models, like Hidden Markov Models (HMMs) for tasks such as speech recognition.
 - Deep Learning Era (2010s-Present):
