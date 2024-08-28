@@ -21,7 +21,9 @@ Brief History of NLP
   - Mention the Turing Test (1950).
   - Early attempts like machine translation (e.g., Georgetown-IBM experiment in 1954).
 - Rule-Based Systems (1960s-1980s):
-  - Hand-coded rules and symbolic approaches ( e.g., [ELIZA](https://en.wikipedia.org/wiki/ELIZA), [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU) ).
+  - Hand-coded rules and symbolic approaches e.g.:
+    - [ELIZA](https://en.wikipedia.org/wiki/ELIZA)
+    - [SHRDLU](https://en.wikipedia.org/wiki/SHRDLU)
 - Statistical Methods (1990s):
   - Introduction of statistical models, like Hidden Markov Models (HMMs) for tasks such as speech recognition.
 - Deep Learning Era (2010s-Present):
@@ -56,14 +58,18 @@ Common NLP Algorithms
 ---
 1. Text Preprocessing:
    - Tokenization, stemming, lemmatization, stop-word removal.
-2. Bag of Words (BoW):
+2. [Bag of Words (BoW)](https://en.wikipedia.org/wiki/Bag-of-words_model):
    - Simple model to represent text data.
 3. Word Embeddings:
-   - Vector representations of words (e.g., Word2Vec, GloVe).
+   - Vector representations of words, e.g., 
+     - [Word to vector (Word2Vec)](https://en.wikipedia.org/wiki/Word2vec)
+     - [Global Vectors (GloVe)](https://en.wikipedia.org/wiki/GloVe)
 4. Sequence Models:
    - Hidden Markov Models (HMMs), Recurrent Neural Networks (RNNs).
 5. Transformers:
-   - Explain transformers and the self-attention mechanism (e.g., BERT, GPT).
+   - Explain transformers and the self-attention mechanism,e.g., 
+     - [Bidirectional Encoder Representations from Transformers (BERT)](https://huggingface.co/docs/transformers/en/model_doc/bert)
+     - [Generative Pre-Training  (GPT)](https://huggingface.co/docs/transformers/en/model_doc/openai-gpt)
 6. Named Entity Recognition (NER):
    - Identifying and classifying entities in text.
 7. Sentiment Analysis:
