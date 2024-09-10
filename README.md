@@ -7,7 +7,7 @@
 1. Basic text processing
    1. [Regular expressions](./01.re.ipynb)
    2. [Text normalization, edit distance](./01.tned.ipynb)
-2. N-gram Language Models
+2. [N-gram Language Models](./02.nglm.ipynb)
 3. Naive Bayes, Text Classification, and Sentiment
 4. Logistic Regression
 5. Vector Semantics and Embeddings
