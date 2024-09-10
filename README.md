@@ -11,25 +11,16 @@
 3. Naive Bayes, Text Classification, and Sentiment
 4. Logistic Regression
 5. Vector Semantics and Embeddings
-6. Neural Networks and Neural Language Models
-7. Dependency parsing
-8. Sequence Labeling for Parts of Speech and Named Entities	
-9.  RNNs and LSTMs
-10. Seq2seq, MT, subword models
-11. Transformers and Large Language Models
-12. Pretraining
-13. Natural language generation
-14. Hugging face transformers
-15. Prompting, Reinforcement Learning from Human
-16. Question Answering
-17. ConvNets, Tree Recursive Neural Networks and Constituency Parsing
-18. Insights between NLP and Linguistics
-19. Code Generation
-20. Training Large Language Models 
-21. Multimodal Deep Learning
-22. Coreference Resolution
-23. Analysis and Interpretability Basics
-24. Model Interpretability and Editing
+6. Neural Networks
+7.  RNNs and LSTMs
+8.  Transformers
+9.  Large Language Models
+10. Masked Language Models
+11. Model Alignment, Prompting, and In-Context Learning
+12. Applications
+---
+
+
 
 
 # References
