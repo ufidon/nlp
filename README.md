@@ -8,16 +8,17 @@
    1. [Regular expressions](./01.re.ipynb)
    2. [Text normalization, edit distance](./01.tned.ipynb)
 2. [N-gram Language Models](./02.nglm.ipynb)
-3. Naive Bayes, Text Classification, and Sentiment
-4. Logistic Regression
-5. Vector Semantics and Embeddings
-6. Neural Networks
-7.  RNNs and LSTMs
-8.  Transformers
-9.  Large Language Models
-10. Masked Language Models
-11. Model Alignment, Prompting, and In-Context Learning
-12. Applications
+3. Text Classification
+   1. [Naive Bayes](./03.nb.ipynb)
+   2. [Logistic Regression](./03.lr.ipynb)
+4. Vector Semantics and Embeddings
+5. Neural Networks
+6.  RNNs and LSTMs
+7.  Transformers
+8.  Large Language Models
+9.  Masked Language Models
+10. Model Alignment, Prompting, and In-Context Learning
+11. Applications
 ---
 
 
