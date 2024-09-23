@@ -11,7 +11,7 @@
 3. Text Classification
    1. [Naive Bayes](./03.nb.ipynb)
    2. [Logistic Regression](./03.lr.ipynb)
-4. Vector Semantics and Embeddings
+4. [Vector Semantics and Embeddings](./04.vswe.ipynb)
 5. Neural Networks
 6.  RNNs and LSTMs
 7.  Transformers
