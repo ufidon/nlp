@@ -15,7 +15,7 @@
 5. [Neural Networks](./05.nn.ipynb)
 6. [RNNs and LSTMs](./06.rnn.ipynb)
 7.  [Transformers](./07.trans.ipynb)
-8.  Large Language Models
+8.  [Large Language Models](./08.llms.ipynb)
 9.  Masked Language Models
 10. Model Alignment, Prompting, and In-Context Learning
 11. Applications
