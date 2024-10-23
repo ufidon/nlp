@@ -16,9 +16,9 @@
 6. [RNNs and LSTMs](./06.rnn.ipynb)
 7.  [Transformers](./07.trans.ipynb)
 8.  [Large Language Models](./08.llms.ipynb)
-9.  Masked Language Models
-10. Model Alignment, Prompting, and In-Context Learning
-11. Applications
+9.  [Masked Language Models](./09.mlm.ipynb)
+10. [Model Alignment, Prompting, and In-Context Learning](./10.mapi.ipynb)
+11. [Applications](./11.apps.ipynb)
 ---
 
 
