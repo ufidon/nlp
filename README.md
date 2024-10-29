@@ -18,7 +18,11 @@
 8.  [Large Language Models](./08.llms.ipynb)
 9.  [Masked Language Models](./09.mlm.ipynb)
 10. [Model Alignment, Prompting, and In-Context Learning](./10.mapi.ipynb)
-11. [Applications](./11.apps.ipynb)
+11. [NLP Applications](./11.apps.ipynb)
+    1.  [Machine Translation](./mt.ipynb)
+    2.  [QA, Information Retrieval, and Retrieval-Augmented Generation](./qair.ipynb)
+    3.  [Chatbots & Dialogue Systems](./cbds.ipynb)
+    4.  [Speech Recognition & Synthesis](./srs.ipynb)
 ---
 
 
