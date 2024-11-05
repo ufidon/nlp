@@ -22,6 +22,7 @@
     1.  Cram of the 🤗 NLP course
         1.  [Using transformers](./hftrans.ipynb)
         2.  [Finetuning a pretrained model](./hfft.ipynb)
+        3.  [Sharing models and tokenizers](./shmt.ipynb)
     2.  [Machine Translation](./mt.ipynb)
     3.  [QA, Information Retrieval, and Retrieval-Augmented Generation](./qair.ipynb)
     4.  [Chatbots & Dialogue Systems](./cbds.ipynb)
