@@ -19,7 +19,9 @@
 9.  [Masked Language Models](./09.mlm.ipynb)
 10. [Model Alignment, Prompting, and In-Context Learning](./10.mapi.ipynb)
 11. [NLP Applications](./11.apps.ipynb)
-    1.  [🤗 NLP](./hfnlp.ipynb)
+    1.  Cram of the 🤗 NLP course
+        1.  [Using transformers](./hftrans.ipynb)
+        2.  [Finetuning a pretrained model](./hfft.ipynb)
     2.  [Machine Translation](./mt.ipynb)
     3.  [QA, Information Retrieval, and Retrieval-Augmented Generation](./qair.ipynb)
     4.  [Chatbots & Dialogue Systems](./cbds.ipynb)
