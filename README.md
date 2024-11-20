@@ -27,6 +27,7 @@
     3.  [QA, Information Retrieval, and Retrieval-Augmented Generation](./qair.ipynb)
     4.  [Chatbots & Dialogue Systems](./cbds.ipynb)
     5.  [Speech Recognition & Synthesis](./srs.ipynb)
+        1.  [Application of SRS](./asrs.ipynb)
 ---
 
 
